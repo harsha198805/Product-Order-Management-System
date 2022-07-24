@@ -10,7 +10,6 @@ cp .env.example .env
 
 Run composer install
 
-Run npm install
 
 Run php artisan key:generate
 
