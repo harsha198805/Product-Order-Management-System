@@ -19,13 +19,13 @@ php artisan serve
 
 Now you can see your project at http://127.0.0.1:8000
 
-login to adminpanel with default credentials (admin@admin.com - password)
+login to super admin panel with default credentials (admin@admin.com - password)
 
 Firstly 
 
 Add Customer,
 
-Add Products
+Add Products,
 
 Add Orders from the menu.
     
