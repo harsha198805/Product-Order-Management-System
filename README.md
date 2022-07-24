@@ -28,5 +28,7 @@ Add Customer,
 Add Products,
 
 Add Orders from the menu.
+
+ <img width="100px" height="100px" src="{{asset('post_images/'pms.png)}}">
     
 
