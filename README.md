@@ -8,9 +8,9 @@ Clone the repository with git clone
 
 cp .env.example .env
 
-Run npm install
-
 Run composer install
+
+Run npm install
 
 Run php artisan key:generate
 
