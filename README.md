@@ -1,23 +1,19 @@
 
-
-# Getting started
-
-## Installation
+# Installation
 
 Clone the repository with git clone
 
 cp .env.example .env
 
-Run composer install
+composer install
 
+php artisan key:generate
 
-Run php artisan key:generate
-
-Run php artisan migrate --seed
+php artisan migrate --seed
 
 php artisan serve
 
-Now you can see your project at http://127.0.0.1:8000
+http://127.0.0.1:8000
 
 login to super admin panel (user name = admin@admin.com , password = password)
 
